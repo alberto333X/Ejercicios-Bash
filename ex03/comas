@@ -1,1 +1,1 @@
-gitpod /workspace/Ejercicios-Bash (main) $ ls -lt .* -Fm
+ls -lt .* -Fm

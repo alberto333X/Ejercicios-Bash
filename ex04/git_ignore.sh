@@ -1,2 +1,2 @@
 #!/bin/bash
-git status --ignored | grep ".txt"
+git ls-files --others --ignored --exclude-standard | cat -e
